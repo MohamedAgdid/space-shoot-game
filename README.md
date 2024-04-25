@@ -8,7 +8,7 @@ Install Pygame library by running `pip install pygame` in your terminal or comma
 ## How to Play
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
-3. Run the game by executing the `space.py` file.
+3. Run the game by executing the `space game.py` file.
 4. Use the arrow keys to control the spaceship's movement. ⬅️⬆️➡️⬇️
 5. Press the spacebar to shoot lasers and destroy incoming enemies. 🔫
 6. Avoid colliding with enemy projectiles or obstacles to survive as long as possible. 🚫💥
